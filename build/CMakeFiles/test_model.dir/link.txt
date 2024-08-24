@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_model.dir/test_model.cpp.o -o test_model  -Wl,-rpath,/usr/local/lib /usr/local/lib/libjsoncpp.dylib

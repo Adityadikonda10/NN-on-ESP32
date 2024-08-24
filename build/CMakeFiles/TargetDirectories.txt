@@ -1,0 +1,3 @@
+/Users/adityadikonda/PycharmProjects/OCR_on_ESP32/build/CMakeFiles/test_model.dir
+/Users/adityadikonda/PycharmProjects/OCR_on_ESP32/build/CMakeFiles/edit_cache.dir
+/Users/adityadikonda/PycharmProjects/OCR_on_ESP32/build/CMakeFiles/rebuild_cache.dir
